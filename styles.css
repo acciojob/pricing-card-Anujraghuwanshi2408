@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+div{
+	background-color: lightblue;
+	height:500px;
+	width:300px;
+	margin-left:100px;
+	padding:20px;
+}
+.heading1 , .heading1~p {
+	text-align:center;
+}
+button{
+	background-color:orange;
+	border-radius:20px;
+	border-width:20px;
+	border-height:20px;
+}
